@@ -1,0 +1,17 @@
+/*Documentos css*/
+body {
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    background-color: blueviolet;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
