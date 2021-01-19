@@ -1,9 +1,10 @@
 /*Documentos css*/
 body {
-    width: 80%;
+    width: 60%;
     margin: auto;
     margin-top: 40px;
     background-color: blueviolet;
+
 }
 
 h1 {
@@ -14,4 +15,11 @@ h1 {
 
 p {
     text-align: justify;
+}
+
+.main-menu {
+    width: 250px;
+    height: 250px;
+    background-color: #fff;
+    border-radius: 50%;
 }
